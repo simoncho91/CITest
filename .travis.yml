@@ -9,7 +9,7 @@ branches:
     
 install: true
 
-script: "./gradlew clean build"
+script: "make test"
 
 cache:
   directories:
